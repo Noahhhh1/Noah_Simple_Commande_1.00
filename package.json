@@ -1,0 +1,14 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Des",
+  "main": "main.js",
+  "scripts": {
+    "test": "?"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
